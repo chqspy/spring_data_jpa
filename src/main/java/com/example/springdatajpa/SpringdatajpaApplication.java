@@ -8,6 +8,7 @@ public class SpringdatajpaApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringdatajpaApplication.class, args);
+        System.out.println(">>__<<");
     }
 
 }
